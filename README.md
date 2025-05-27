@@ -109,7 +109,7 @@ Understand squirrel sightings data through:
 ## 📬 Contact
 
 Made with 💻 by \[Your Name]
-For questions or suggestions, reach out at \[[your-email@example.com](mailto:your-email@example.com)]
+For questions or suggestions, reach out at \[[your-email@example.com](mailto:omborase4001@gmail.com)]
 
 ---
 
